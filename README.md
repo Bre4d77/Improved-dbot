@@ -18,5 +18,5 @@
 > **FIXED BUGS/IMPROVEMENTS MADE**
 ```css
 NOTHING CHANGED YET you can report new bugs to
-the coder's planet discord server 
+the coders planet discord server 
 ```
